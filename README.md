@@ -1,3 +1,7 @@
+Hoi!
+
+Ik ben geen bot.
+
 <!-- # 🪙 Token -->
 
 [//]: # (<img alt="workshop/token" width="1412" src="../.resources/token.png">)
